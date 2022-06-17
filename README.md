@@ -1,6 +1,7 @@
-##  Olá! Eu sou o Emanuel :D
+Olá! :D
 
-- 🌱 Atualmente estou estudando Python
+- 🌱 Atualmente estou participando de um projeto chamado Mosaico, do IFBA - Campus Camaçari. Nesse projeto, estou desenvolvendo uma aplicação utilizando React.ts. Se quiser dar uma olhada checa o repositório: https://github.com/emn-f/plumbum :)
+
 <div align="center">
   <a href="https://github.com/emn-f">
   <img height="280" width="500" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
