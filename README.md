@@ -1,6 +1,8 @@
 Olá! :D
 
-- 🌱 Atualmente estou participando de um projeto chamado Mosaico, do IFBA - Campus Camaçari. Nesse projeto, estou desenvolvendo uma aplicação utilizando React.ts. Se quiser dar uma olhada checa o repositório: https://github.com/emn-f/plumbum :)
+- 🌱 Atualmente estou participando de um projeto chamado Mosaico, do IFBA - Campus Camaçari.
+Nesse projeto, estou desenvolvendo uma aplicação utilizando React com Typescript, HTML e CSS
+Se quiser dar uma olhada checa o repositório: https://github.com/emn-f/plumbum :)
 
 <div align="center">
   <a href="https://github.com/emn-f">
