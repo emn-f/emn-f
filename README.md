@@ -1,19 +1,11 @@
-Olá! :D
+Bem vindo! :D
 
-- 🌱 Atualmente estou participando de um projeto chamado Mosaico, do IFBA - Campus Camaçari.
-Nesse projeto, estou desenvolvendo uma aplicação utilizando React com Typescript, HTML e CSS
-Se quiser dar uma olhada checa o repositório: https://github.com/emn-f/plumbum :)
+Atualmente estudante do 1º semestre de Engenharia de Software. Cursei o Ensino Médio com Técnico em Tecnologia da Informação no Instituto Federal da Bahia (IFBA). 
 
 <div align="center">
   <a href="https://github.com/emn-f">
-  <img height="280" width="500" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="280" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emn-f&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-## Linguagens que mais domino:
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Emanuel_Java" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Emanuel_MySQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="280" width="500" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Redes Socias:
