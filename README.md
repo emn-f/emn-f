@@ -42,5 +42,5 @@ Estou sempre aberto a novas conexões, projetos e oportunidades. Vamos conversar
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=emn-f&theme=dark" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=emn-f" alt="Snake animation" />
 </div>
