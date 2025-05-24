@@ -3,7 +3,7 @@ Entusiasta da tecnologia cursando Engenharia de Software e com uma paixão cresc
 
 ## 👨‍💻 Sobre mim
 Profissional com sólida experiência no ecossistema de tecnologia, atuando como Analista de Suporte com foco em banco de dados, especialmente SQL Server. Minha trajetória inclui experiências como Testador de Software e Tech Writer, o que me proporcionou uma visão completa do ciclo de desenvolvimento de sistemas.
-- 🎓 Cursando Engenharia de Software (2º semestre).
+- 🎓 Cursando Engenharia de Software (2º semestre) na Universidade Católica do Salvador.
 - 🛠️ Formação como Técnico em Tecnologia da Informação pelo Instituto Federal da Bahia (IFBA).
 - 🎯 Buscando ativamente oportunidades na área de dados para aplicar minhas habilidades analíticas e contribuir com soluções inovadoras.
 
@@ -23,7 +23,7 @@ Minha caixa de ferramentas está sempre em evolução. Aqui estão algumas das t
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     </a>
 </p>
-<p><i>Possuo bastante experiência também com SQL Server, Firebird, Microsft Access e arquivos .DBF.</i></p>
+<p>Possuo experiência também com SQL Server, Firebird, Access, Excel, arquivos .DBF e outros formatos utilizados no mercado.</p>
 
 ### 📊 Git Stats
 <div align="center">
