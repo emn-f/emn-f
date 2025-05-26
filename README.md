@@ -1,29 +1,19 @@
 # 👨🏾‍💻Emanuel Ferreira 
 Entusiasta da tecnologia cursando Engenharia de Software e com uma paixão crescente pela área de Ciência de Dados.
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,cs,python,html,css,react,ts,figma,mysql,postgres" />
+    </a>
+</p>
+
+<p>Além de SQL Server, Firebird, Access, Excel, arquivos .DBF e outros formatos utilizados no mercado.</p>
+
 ## 👨‍💻 Sobre mim
 Profissional com sólida experiência no ecossistema de tecnologia, atuando como Analista de Suporte com foco em banco de dados, especialmente SQL Server. Minha trajetória inclui experiências como Testador de Software e Tech Writer, o que me proporcionou uma visão completa do ciclo de desenvolvimento de sistemas.
 - 🎓 Cursando Engenharia de Software (2º semestre) na Universidade Católica do Salvador.
 - 🛠️ Formação como Técnico em Tecnologia da Informação pelo Instituto Federal da Bahia (IFBA).
 - 🎯 Buscando ativamente oportunidades na área de dados para aplicar minhas habilidades analíticas e contribuir com soluções inovadoras.
-
-### 🚀 Habilidades & Ferramentas
-Minha caixa de ferramentas está sempre em evolução. Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-
-**Linguagens & Frameworks:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,cs,python,html,css,react,ts,figma" />
-  </a>
-</p>
-
-**Banco de Dados:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-    </a>
-</p>
-<p>Possuo experiência também com SQL Server, Firebird, Access, Excel, arquivos .DBF e outros formatos utilizados no mercado.</p>
 
 ### 📊 Git Stats
 <div align="center">
