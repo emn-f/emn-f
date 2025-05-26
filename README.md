@@ -3,7 +3,7 @@ Entusiasta da tecnologia cursando Engenharia de Software e com uma paixão cresc
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,cs,python,html,css,react,ts,figma,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,php,cs,python,html,css,js,react,ts,figma,mysql,postgres" />
     </a>
 </p>
 
