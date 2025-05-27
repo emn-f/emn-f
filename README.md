@@ -9,7 +9,6 @@ Entusiasta da tecnologia cursando Engenharia de Software e com uma paixão cresc
 
 [![wakatime](https://wakatime.com/badge/user/3b5134d5-b349-4fef-a5ba-2b0ad185d1fa.svg)](https://wakatime.com/@3b5134d5-b349-4fef-a5ba-2b0ad185d1fa)
 
-
 <p>Além de SQL Server, Firebird, Access, Excel, arquivos .DBF e outros SGBDs populares no mercado.</p>
 
 ## 👨‍💻 Sobre mim
