@@ -29,8 +29,14 @@ Profissional com sólida experiência no ecossistema de tecnologia, atuando como
 ### 📫 Conecte-se comigo
 Estou sempre aberto a novas conexões, projetos e oportunidades. Vamos conversar!
 <p align="left">
-  <a href="https://www.linkedin.com/in/emanuelferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanuelferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emnferreira.wk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=email&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 ---
 
