@@ -27,20 +27,11 @@ Profissional com sólida experiência no ecossistema de tecnologia, atuando como
 </div>
 
 ### 📫 Contato
-Estou sempre aberto a novas conexões, projetos e oportunidades. Vamos conversar!
-<p align="left">
-  <a href="https://www.linkedin.com/in/emanuelferreira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:emnferreira.wk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=email&logoColor=white" alt="Email" />
-  </a>
-</p>
-## Contato
+Estou sempre aberto a novas conexões, projetos e oportunidades! :)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992348839)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelferreira)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: emnferreira.wk@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emnferreira.wk@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992348839)
 
 ---
 
