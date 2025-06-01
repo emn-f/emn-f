@@ -17,7 +17,7 @@ Profissional com sólida experiência no ecossistema de tecnologia, atuando como
 - 🎓 Cursando Engenharia de Software (2º semestre) na Universidade Católica do Salvador.
 - 🛠️ Formação como Técnico em Tecnologia da Informação pelo Instituto Federal da Bahia (IFBA).
 - 🎯 Buscando ativamente oportunidades na área de dados para aplicar minhas habilidades analíticas e contribuir com soluções inovadoras.
----
+
 <div align="center">
   <a href="https://github.com/emn-f">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -31,9 +31,7 @@ Estou sempre aberto a novas conexões, projetos e oportunidades! :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelferreira)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emnferreira.wk@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992348839)
-
 ---
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=emn-f" alt="Snake animation" />
 </div>
