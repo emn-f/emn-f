@@ -1,13 +1,14 @@
 # 👨🏾‍💻Emanuel Ferreira 
 Entusiasta da tecnologia cursando Engenharia de Software e com uma paixão crescente pela área de Ciência de Dados.
 
+[![wakatime](https://wakatime.com/badge/user/3b5134d5-b349-4fef-a5ba-2b0ad185d1fa.svg)](https://wakatime.com/@3b5134d5-b349-4fef-a5ba-2b0ad185d1fa)
+
+Tenho experiência prática e teórica com as seguintes tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,cs,python,html,css,js,react,ts,figma,mysql,postgres" />
     </a>
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/3b5134d5-b349-4fef-a5ba-2b0ad185d1fa.svg)](https://wakatime.com/@3b5134d5-b349-4fef-a5ba-2b0ad185d1fa)
 
 <p>Além de SQL Server, Firebird, Access, Excel, arquivos .DBF e outros SGBDs populares no mercado.</p>
 
@@ -25,7 +26,7 @@ Profissional com sólida experiência no ecossistema de tecnologia, atuando como
   </a>
 </div>
 
-### 📫 Conecte-se comigo
+### 📫 Contato
 Estou sempre aberto a novas conexões, projetos e oportunidades. Vamos conversar!
 <p align="left">
   <a href="https://www.linkedin.com/in/emanuelferreira/" target="_blank">
