@@ -17,8 +17,7 @@ Profissional com sólida experiência no ecossistema de tecnologia, atuando como
 - 🎓 Cursando Engenharia de Software (2º semestre) na Universidade Católica do Salvador.
 - 🛠️ Formação como Técnico em Tecnologia da Informação pelo Instituto Federal da Bahia (IFBA).
 - 🎯 Buscando ativamente oportunidades na área de dados para aplicar minhas habilidades analíticas e contribuir com soluções inovadoras.
-
-### 📊 Git Stats
+---
 <div align="center">
   <a href="https://github.com/emn-f">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
