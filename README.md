@@ -12,8 +12,6 @@ Tenho experiência prática e teórica com as seguintes tecnologias:
 
 <p>Além de SQL Server, Firebird, Access, Excel, arquivos .DBF e outros SGBDs populares no mercado.</p>
 
-## 👨‍💻 Sobre mim
-Profissional com sólida experiência no ecossistema de tecnologia, atuando como Analista de Suporte com foco em banco de dados, especialmente SQL Server. Minha trajetória inclui experiências como Testador de Software e Tech Writer, o que me proporcionou uma visão completa do ciclo de desenvolvimento de sistemas.
 - 🎓 Cursando Engenharia de Software (2º semestre) na Universidade Católica do Salvador.
 - 🛠️ Formação como Técnico em Tecnologia da Informação pelo Instituto Federal da Bahia (IFBA).
 - 🎯 Buscando ativamente oportunidades na área de dados para aplicar minhas habilidades analíticas e contribuir com soluções inovadoras.
