@@ -21,10 +21,10 @@ Tenho experiência prática e teórica com as seguintes tecnologias:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emn-f&theme=dark" alt="emn-f" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emn-f&layout=compact&langs_count=7&theme=dark"/>
   </a>
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emn-f&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emn-f&theme=dark" alt="emn-f" />
   </a>
 </div>
 
