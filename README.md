@@ -12,7 +12,7 @@ Tenho experiência prática e teórica com as seguintes tecnologias:
 
 <p>Além de SQL Server, Firebird, Access, Excel, arquivos .DBF e outros SGBDs populares no mercado.</p>
 
-- 🎓 Estudante de **Engenharia de Software** (2º semestre) na Universidade Católica do Salvador.
+- 🎓 Estudante de **Engenharia de Software** (3º semestre) na Universidade Católica do Salvador.
 - 🛠️ Formado com **Técnico em Tecnologia da Informação** pelo Instituto Federal da Bahia (IFBA).
 - 🎯 Buscando ativamente **oportunidades na área de dados** para aplicar minhas habilidades analíticas e contribuir com soluções inovadoras.
 
