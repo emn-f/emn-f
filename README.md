@@ -24,7 +24,7 @@ Tenho experiência prática e teórica com as seguintes tecnologias:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emn-f&layout=compact&langs_count=7&theme=dark"/>
   </a>
   <a>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emn-f&theme=dark" alt="emn-f" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emn-f&theme=dark"/>
   </a>
 </div>
 
