@@ -1,4 +1,4 @@
-# hey, i am Emanuel 🤓☝🏾
+# hey, eu sou emanuel
 Estudante de Engenharia de Software e aspirante a Cientista de Dados, focado em construir soluções que unem código e inteligência.
 
 [![wakatime](https://wakatime.com/badge/user/3b5134d5-b349-4fef-a5ba-2b0ad185d1fa.svg)](https://wakatime.com/@3b5134d5-b349-4fef-a5ba-2b0ad185d1fa)
