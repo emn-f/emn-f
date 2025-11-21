@@ -1,12 +1,8 @@
-Olá, eu sou o Emanuel! 👋
-=========================
-
 Estudante de Engenharia de Software e aspirante a Cientista de Dados, focado em construir soluções que unem código, dados e inteligência artificial.
 
-🚀 Projeto em Destaque
-----------------------
+## 🚀 Projeto em Destaque
 
-### 🌈 [VoxAI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai "null")
+### 🌈 [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
 
 > *Projeto de extensão universitária para apoio e informação à comunidade LGBTQIA+.*
 
@@ -14,53 +10,61 @@ O VoxAI é meu projeto mais completo até o momento, onde apliquei uma arquitetu
 
 **🛠️ O que tem por baixo do capô?**
 
--   **Core:** Python & Streamlit.
+- **Core:** Python & Streamlit.
+- **IA Generativa:** Integração com **Google Gemini 2.0 Flash**.
+- **Busca Semântica (RAG):** Uso de `SentenceTransformers` e cálculo de similaridade de cosseno.
+- **Engenharia de Dados:** Pipeline de sincronização automática entre Google Sheets e JSON local.
+- **DevOps:** CI/CD completo com **GitHub Actions**, versionamento semântico (Git Cliff) e sync com Hugging Face.
 
--   **IA Generativa:** Integração com **Google Gemini 2.0 Flash**.
+[Ver Repositório](https://github.com/emn-f/vox-ai) • [Acessar Vox AI](https://assistentevox.streamlit.app/)
 
--   **Busca Semântica (RAG):** Uso de `SentenceTransformers` e cálculo de similaridade de cosseno para recuperar contextos relevantes.
-
--   **Engenharia de Dados:** Pipeline de sincronização automática entre Google Sheets e JSON local.
-
--   **DevOps:** CI/CD completo com **GitHub Actions** para deploy, versionamento semântico (Git Cliff) e sincronização com Hugging Face.
-
-[Ver Repositório](https://github.com/emn-f/vox-ai "null") - [Acessar Demo Online](https://assistentevox.streamlit.app/ "null")
-
-💻 Stack Tecnológica
---------------------
+## 💻 Stack Tecnológica
 
 Tenho experiência prática e teórica nas seguintes tecnologias:
 
-**Linguagens & Backend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,php,mysql,postgres,react,ts,js,html,css,figma,git" />
+</div>
 
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,cs,php,mysql,postgres" /> </a> </p>
+## 🎓 Sobre Mim
 
-**Web & Frontend**
+- 🎓 Estudante de **Engenharia de Software** (3º semestre) na Universidade Católica do Salvador.
+- 🛠️ Técnico em **Tecnologia da Informação** pelo Instituto Federal da Bahia (IFBA).
+- 🎯 Foco atual: **Engenharia de Dados, NLP e Arquitetura de Software**.
 
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,ts,js,html,css,figma" /> </a> </p>
+## 📊 GitHub Stats
 
-**Dados & Ferramentas**
-
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode" /> </a> </p>
-
-<p><em>Também possuo vivência com SQL Server, Firebird e Excel avançado.</em></p>
-
-🎓 Sobre Mim
-------------
-
--   🎓 Estudante de **Engenharia de Software** (3º semestre) na Universidade Católica do Salvador.
-
--   🛠️ Técnico em **Tecnologia da Informação** pelo Instituto Federal da Bahia (IFBA).
-
--   🎯 Foco atual: **Engenharia de Dados, NLP e Arquitetura de Software**.
-
-📊 GitHub Stats
----------------
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <a href="https://www.google.com/search?q=https://github.com/emn-f"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Demn-f%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue"/> </a> <a href="https://www.google.com/search?q=https://github.com/emn-f"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Demn-f%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddark%26hide_border%3Dtrue"/> </a> <a href="https://www.google.com/search?q=https://github.com/emn-f"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Demn-f%26theme%3Ddark%26hide_border%3Dtrue"/> </a> </div>
+<div align="center">
+  <a href="https://github.com/emn-f">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/emn-f">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emn-f&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/emn-f">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emn-f&theme=dark&hide_border=true"/>
+  </a>
+</div>
 
 ### 📫 Contato
 
 Estou sempre aberto a novas conexões, projetos e oportunidades!
 
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=emn-f" alt="Snake animation" /> </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/emanuelferreira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:emnferreira.wk@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wa.me/5571992348839" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=emn-f" alt="Snake animation" /> 
+</div>
