@@ -2,7 +2,7 @@ Estudante de Engenharia de Software e aspirante a Cientista de Dados, focado em 
 
 ## 🚀 Projeto em Destaque
 
-###🏳️‍🌈 [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
+### 🏳️‍🌈 [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
 
 O VoxAI é meu projeto mais completo até o momento, onde apliquei uma arquitetura **RAG (Retrieval-Augmented Generation)** para criar um assistente que não apenas conversa, mas consulta uma base de conhecimento curada antes de responder.
 
