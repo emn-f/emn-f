@@ -1,20 +1,12 @@
-Estudante de Engenharia de Software com foco na área de dados 🎲
+Estudante de Engenharia de Software (4° semestre) com foco na área de dados 🎲
 
-## Projeto em destaque
+## Projeto principal
 
 ### [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
 
 O VoxAI é meu projeto mais completo até o momento, onde apliquei uma arquitetura **RAG (Retrieval-Augmented Generation)** para criar um assistente que não apenas conversa, mas consulta uma base de conhecimento curada antes de responder. Da uma olhada no repositório, tá bem legal :)
 
 [Ver Repositório](https://github.com/emn-f/vox-ai)
-
-## Stack Tecnológica
-
-Tenho experiência prática e teórica nas seguintes tecnologias:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,php,mysql,postgres,react,ts,js,html,css,figma,git" />
-</div>
 
 ## 📊 GitHub Stats
 
@@ -35,7 +27,7 @@ Tenho experiência prática e teórica nas seguintes tecnologias:
 
 ### 📫 Contato
 
-Estou sempre aberto a novas conexões, projetos e oportunidades!
+Estou sempre aberto a novas conexões. ;)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/emanuelferreira" target="_blank">
