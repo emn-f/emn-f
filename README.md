@@ -1,34 +1,20 @@
-Estudante de Engenharia de Software e aspirante a Cientista de Dados, focado em construir soluções que unem código, dados e inteligência artificial.
+Estudante de Engenharia de Software com foco na área de dados 🎲
 
-## 🚀 Projeto em Destaque
+## Projeto em destaque
 
-### 🏳️‍🌈 [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
+### [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
 
-O VoxAI é meu projeto mais completo até o momento, onde apliquei uma arquitetura **RAG (Retrieval-Augmented Generation)** para criar um assistente que não apenas conversa, mas consulta uma base de conhecimento curada antes de responder.
+O VoxAI é meu projeto mais completo até o momento, onde apliquei uma arquitetura **RAG (Retrieval-Augmented Generation)** para criar um assistente que não apenas conversa, mas consulta uma base de conhecimento curada antes de responder. Da uma olhada no repositório, tá bem legal :)
 
-**🛠️ O que tem por baixo do capô?**
+[Ver Repositório](https://github.com/emn-f/vox-ai)
 
-- **Core:** Python & Streamlit.
-- **IA Generativa:** Integração com **Google Gemini 2.0 Flash**.
-- **Busca Semântica (RAG):** Uso de `SentenceTransformers` e cálculo de similaridade de cosseno.
-- **Engenharia de Dados:** Pipeline de sincronização automática entre Google Sheets e JSON local.
-- **DevOps:** CI/CD completo com **GitHub Actions**, versionamento semântico (Git Cliff) e sync com Hugging Face.
-
-[Ver Repositório](https://github.com/emn-f/vox-ai) • [Acessar Vox AI](https://assistentevox.streamlit.app/)
-
-## 💻 Stack Tecnológica
+## Stack Tecnológica
 
 Tenho experiência prática e teórica nas seguintes tecnologias:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,php,mysql,postgres,react,ts,js,html,css,figma,git" />
 </div>
-
-## 🎓 Sobre Mim
-
-- 🎓 Estudante de **Engenharia de Software** (3º semestre) na Universidade Católica do Salvador.
-- 🛠️ Técnico em **Tecnologia da Informação** pelo Instituto Federal da Bahia (IFBA).
-- 🎯 Foco atual: **Engenharia de Dados, NLP e Arquitetura de Software**.
 
 ## 📊 GitHub Stats
 
