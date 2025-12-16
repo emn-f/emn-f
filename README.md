@@ -4,7 +4,11 @@ Estudante de Engenharia de Software (4° semestre) com foco na área de dados �
 
 ### [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
 
-O VoxAI é meu projeto mais completo até o momento, onde apliquei uma arquitetura **RAG (Retrieval-Augmented Generation)** para criar um assistente que não apenas conversa, mas consulta uma base de conhecimento curada antes de responder. Da uma olhada no repositório, tá bem legal :)
+O Vox é um chatbot cujo principal objetivo é atuar como uma fonte de informações confiáveis para a comunidade LGBTQIA+. Seu grande diferencial é a utilização de uma arquitetura RAG (Retrieval-Augmented Generation), que permite gerar respostas com base em uma base de conhecimento previamente curada por humanos.
+
+Essa abordagem reduz significativamente a possibilidade de alucinações - ou seja, respostas imprecisas ou não confiáveis - e garante respostas mais consistentes, contextualizadas e responsáveis. O Vox vai além de apenas tirar dúvidas: ele busca educar, orientar e promover acesso à informação de qualidade.
+
+Da uma olhada no repositório e no deploy do projeto. Ficou bem legal :)
 
 [Ver Repositório](https://github.com/emn-f/vox-ai)
 
