@@ -1,50 +1,51 @@
-Estudante de Engenharia de Software (4° semestre) com foco na área de dados 🎲
+## Sobre Mim
 
-## Projeto principal
+Conciliando a graduação em Engenharia de Software (UCSal) com a vivência em TI industrial e a liderança técnica de um projeto Open Source.
 
-### [Vox AI: Assistente de Inteligência Artificial](https://github.com/emn-f/vox-ai)
+- 💼 **Atualmente:** Estagiário de TI na **Continental AG**, atuando no Service Desk com foco em suporte ao usuário, gestão de acessos (AD) e infraestrutura.
+- 🤖 **Tech Lead:** Fundador do **Projeto Vox**, liderando a arquitetura e desenvolvimento da IA.
+- 🎯 **Foco de Estudo:** Generative AI, RAG, Engenharia de Dados e Arquitetura Cloud.
 
-O Vox é um chatbot cujo principal objetivo é atuar como uma fonte de informações confiáveis para a comunidade LGBTQIA+. Seu grande diferencial é a utilização de uma arquitetura RAG (Retrieval-Augmented Generation), que permite gerar respostas com base em uma base de conhecimento previamente curada por humanos.
 
-Essa abordagem reduz significativamente a possibilidade de alucinações - ou seja, respostas imprecisas ou não confiáveis - e garante respostas mais consistentes, contextualizadas e responsáveis. O Vox vai além de apenas tirar dúvidas: ele busca educar, orientar e promover acesso à informação de qualidade.
 
-Da uma olhada no repositório e no deploy do projeto. Ficou bem legal :)
+## Projeto em Destaque: Vox AI
 
-[Ver Repositório](https://github.com/emn-f/vox-ai)
+O Vox é um assistente de IA focado em entregar informações confiáveis para a comunidade LGBTQIA+, utilizando **Busca Semântica** para mitigar alucinações.
 
-## 📊 GitHub Stats
+**Destaques de Engenharia:**
+* 🐘 **Supabase (PostgreSQL):** Migração completa de planilhas para um banco de dados relacional robusto, garantindo escalabilidade e segurança via **Row Level Security (RLS)**.
+* 🧠 **RAG & Vetores:** Recuperação de contexto otimizada para fundamentar as respostas do modelo Gemini.
+* ⚙️ **Backend Python:** Pipeline de ingestão e tratamento de dados customizado.
+* 🚀 **CI/CD Moderno:** Deploy automatizado e testes de integração contínuos via GitHub Actions.
+
+[Ver Repositório](https://github.com/emn-f/vox-ai) • [**Acessar Deploy**](https://assistentevox.streamlit.app/)
+
+
+## Tech Stack
 
 <div align="center">
-  <a href="https://github.com/emn-f">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emn-f&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/emn-f">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emn-f&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,supabase,postgres,mysql,docker,githubactions,git,java,php,ts,react,html,css,figma,notion,vscode&perline=11" />
 </div>
-<br>
+
+
+## Stats
+
 <div align="center">
   <a href="https://github.com/emn-f">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emn-f&theme=dark&hide_border=true"/>
   </a>
 </div>
 
-### 📫 Contato
-
-Estou sempre aberto a novas conexões. ;)
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/emanuelferreira" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:emnferreira.wk@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://wa.me/5571992348839" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=emn-f" alt="Snake animation" /> 
+</div>
+
+## Contato
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emnferreira.wk@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelferreira)
+  [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emnarlanferreira)
+  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/emn_f)
 </div>
