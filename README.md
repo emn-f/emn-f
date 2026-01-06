@@ -18,7 +18,7 @@ O Vox é um assistente de IA focado em entregar informações confiáveis para a
 * ⚙️ **Backend Python:** Pipeline de ingestão e tratamento de dados customizado.
 * 🚀 **CI/CD Moderno:** Deploy automatizado e testes de integração contínuos via GitHub Actions.
 
-[Ver Repositório](https://github.com/emn-f/vox-ai) • [**Acessar Deploy**](https://assistentevox.streamlit.app/)
+[Ver Repositório](https://github.com/emn-f/vox-ai) • [**Acessar Deploy**](https://vox-ai.streamlit.app/)
 
 
 ## Tech Stack
