@@ -7,8 +7,7 @@ Conciliando a graduação em Engenharia de Software (UCSal) com a vivência em T
 - 🎯 **Foco de Estudo:** Generative AI, RAG, Engenharia de Dados e Arquitetura Cloud.
 
 
-
-## Em Destaque: Tech Lead do Projeto Vox:
+## Em Destaque: Projeto Vox AI 🗨️🏳️‍🌈
 
 O Vox é um assistente de IA focado em entregar informações confiáveis para a comunidade LGBTQIA+, utilizando **Busca Semântica** para mitigar alucinações.
 
