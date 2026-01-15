@@ -8,11 +8,11 @@ Conciliando a graduação em Engenharia de Software (UCSal) com a vivência em T
 
 
 
-## Projeto em Destaque: Vox AI
+## Em Destaque: Tech Lead do Projeto Vox:
 
 O Vox é um assistente de IA focado em entregar informações confiáveis para a comunidade LGBTQIA+, utilizando **Busca Semântica** para mitigar alucinações.
 
-**Destaques de Engenharia:**
+**Destaques de Engenharia e Implementações recentes:**
 * 🐘 **Supabase (PostgreSQL):** Migração completa de planilhas para um banco de dados relacional robusto, garantindo escalabilidade e segurança via **Row Level Security (RLS)**.
 * 🧠 **RAG & Vetores:** Recuperação de contexto otimizada para fundamentar as respostas do modelo Gemini.
 * ⚙️ **Backend Python:** Pipeline de ingestão e tratamento de dados customizado.
