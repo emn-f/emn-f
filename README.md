@@ -1,6 +1,6 @@
 <h1>Emanuel Ferreira <sub><sup>aka Holmes</sup></sub></h1>
 
-Engenharia de Software (UCSal, 5° semestre) · IT Intern @ Continental AG · Tech Lead @ Projeto Vox
+Engenharia de Software (UCSal, 5° semestre) · Técnico em TI (IFBA) · IT Intern @ Continental AG · Tech Lead @ Projeto Vox
 
 ## Sobre mim
 
