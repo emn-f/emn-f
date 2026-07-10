@@ -10,8 +10,6 @@ No Projeto Vox (open-source), sou Tech Lead e responsável pela arquitetura pont
 
 Fora do código, participo ativamente de comunidades de tecnologia. Palestrei no [NOSS 2026](https://github.com/cumbucadev/NOSS), fui voluntário em um evento de hacking e estou sempre em algum evento de IA ou open source. Tudo feito da comunidade pra comunidade faz meu coração bater mais forte.
 
-Fã do Homem-Aranha 🕷️ e Imagine Dragons 🎵
-
 **Interesses:** Engenharia de Dados · RAG & GenAI · Segurança da Informação (IAM/Blue Team)
 
 ---
@@ -44,8 +42,8 @@ Assistente de IA com busca semântica (RAG) voltado à comunidade LGBTQIA+.
 
 ---
 
-## Publicações
-
+## Publicações no Medium
+Compartilho um pouco do que aprendo de vez em quando :)
 - [Do MVP ao RAG: Como o Vox AI evoluiu de planilhas para uma arquitetura escalável com Supabase](https://emnferreira.medium.com/do-mvp-ao-rag-como-o-vox-ai-evoluiu-de-planilhas-para-uma-arquitetura-escal%C3%A1vel-com-supabase-4c51b951ed56)
 
 ---
