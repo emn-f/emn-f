@@ -6,18 +6,17 @@
 
 Sou estudante de Engenharia de Software e profissional de TI focado em construir sistemas seguros, automações de infraestrutura e arquiteturas orientadas a dados.
 
-- 🏢 **Corporativo & SecOps:** Atuo na **Continental AG** com gestão de identidades e acessos (IAM) via Active Directory, conformidade e padronização de endpoints e automação de auditorias técnicas.
-- 🗄️ **Dados & Backend:** Mais de 2 anos de experiência prática trabalhando com múltiplos SGBDs em produção — desenvolvendo rotinas de ETL, limpeza (*data cleansing*), migrações críticas de bancos de dados e investigação de causa raiz via SQL.
-- 🧠 **Open Source & IA:** Sou fundador e Tech Lead do **Projeto Vox AI**, onde desenho a arquitetura ponta a ponta: banco vetorial, pipeline RAG, integração de LLMs e esteiras de DevSecOps (Gatekeeper).
-- 🤝 **Comunidade:** Palestrante no [NOSS 2026](https://github.com/cumbucadev/NOSS), voluntário em eventos de hacking/segurança e presença constante em comunidades de IA e software livre. Tudo feito da comunidade pra comunidade faz meu coração bater mais forte.
+- **Corporativo & SecOps:** Atuo na **Continental AG** com gestão de identidades e acessos (IAM) via Active Directory, conformidade e padronização de endpoints e automação de auditorias técnicas.
+- **Dados & Backend:** Mais de 2 anos de experiência prática trabalhando com múltiplos SGBDs em produção, trabalhando com rotinas de ETL, limpeza, migrações críticas de bancos de dados e investigação de causa raiz via SQL.
+- **Open Source & IA:** Sou fundador e Tech Lead do **Projeto Vox AI**, onde desenho a arquitetura ponta a ponta: banco vetorial, pipeline RAG, integração de LLMs e esteiras de DevSecOps.
+- **Comunidade:** Palestrante no [NOSS 2026](https://github.com/cumbucadev/NOSS), voluntário em eventos de hacking/segurança e presença constante em comunidades de IA e software livre. Tudo feito da comunidade pra comunidade faz meu coração bater mais forte.
 
 **Foco atual:** Engenharia de Software (Backend/Full-Stack) · DevSecOps & Automação · Engenharia de Dados (SQL/ETL) · GenAI & RAG
 
----
 
-## 🛠️ Em Construção & Destaques de Engenharia
+## Destaques
 
-### 1. Projeto Vox AI 🏳️‍🌈 *(Open Source)*
+### 1. Projeto Vox AI (Open Source)
 Assistente de IA com busca semântica (RAG) voltado à saúde e apoio da comunidade LGBTQIA+.
 
 | Problema | Solução | Resultado |
@@ -28,13 +27,12 @@ Assistente de IA com busca semântica (RAG) voltado à saúde e apoio da comunid
 
 🔗 [Repositório](https://github.com/emn-f/vox-ai) · [Documentação Técnica](https://github.com/emn-f/vox-ai-docs) · [Deploy](https://vox-ai.streamlit.app/)
 
-### 2. Outros Projetos & Ferramentas (Públicos e Privados)
-- 🏢 **Ecossistema MentoraOS** *(SaaS B2B Multi-Tenant — Privado)*: Plataforma educacional dividida em *Data Plane* (`mentora-os`) e *Control Plane* (`mentora-adm`) com Node.js/Express 5, React 19, PostgreSQL (RLS), criptografia de PII em repouso (`AES-256-GCM`), hashing `Argon2id`, gerenciamento de segredos por tenant via **Infisical**, armazenamento privado no **Cloudflare R2** e orquestração em **DevContainers + OCI**.
-- 🛡️ **Odé CLI & KillerOffice** *(Automação SecOps & FinOps — Privados)*: Ferramentas CLI em Python e PowerShell (`SYSTEM`) para auditoria remota de conformidade de softwares em estações Windows (incluindo montagem segura de `NTUSER.DAT` em perfis deslogados) e coleta *read-only* de evidências para otimização de licenciamento M365.
-- 🌿 **[Sonitus](https://github.com/emn-f/sonitus)** *(Open Source)*: Plataforma web de acessibilidade sensorial (React + TypeScript) projetada sob o conceito *Sensory Sanctuary*, com suporte nativo a redução de movimento (`prefers-reduced-motion`) e mapeamento de conforto acústico urbano.
-- ☕ **[Chat Scott](https://github.com/emn-f/chat-scott) & Bomberman SD** *(Sistemas Distribuídos)*: Implementações de comunicação distribuída em **Java RMI** puro com callbacks remotos bidirecionais e arquitetura *Local HTTP Adapter Bridge* integrando Java RMI a um frontend **React + HTML5 Canvas**.
+### 2. Outros Projetos e Ferramentas
+- **Ecossistema MentoraOS** *(SaaS B2B Multi-Tenant — Privado)*: Plataforma educacional dividida em *Data Plane* e *Control Plane* com Node.js/Express 5, React 19, PostgreSQL (RLS), criptografia de PII em repouso (`AES-256-GCM`), hashing `Argon2id`, gerenciamento de segredos por tenant via **Infisical**, armazenamento privado no **Cloudflare R2** e orquestração em **DevContainers + OCI**.
+- **Odé CLI & KillerOffice** *(Automação SecOps & FinOps — Privados)*: Ferramentas CLI em Python e PowerShell para auditoria remota de conformidade de softwares em estações Windows (incluindo montagem segura de `NTUSER.DAT` em perfis deslogados) e coleta *read-only* de evidências para otimização de licenciamento M365.
+- **[Sonitus](https://github.com/emn-f/sonitus)** *(Open Source)*: Plataforma web de acessibilidade sensorial (React + TypeScript) projetada sob o conceito *Sensory Sanctuary*, com suporte nativo a redução de movimento (`prefers-reduced-motion`) e mapeamento de conforto acústico urbano.
+- **[Chat Scott](https://github.com/emn-f/chat-scott) e Bomberman SD** *(Sistemas Distribuídos)*: Implementações de comunicação distribuída em **Java RMI** puro com callbacks remotos bidirecionais e arquitetura *Local HTTP Adapter Bridge* integrando Java RMI a um frontend **React + HTML5 Canvas**.
 
----
 
 ## Tech Stack
 
@@ -48,13 +46,11 @@ Assistente de IA com busca semântica (RAG) voltado à saúde e apoio da comunid
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker,linux,githubactions,powershell,git&perline=10" alt="Data and DevOps Stack" />
 </div>
 
----
 
-## Publicações no Medium
+## Artigos
 Compartilho um pouco do que aprendo na prática:
 - 📝 [Do MVP ao RAG: Como o Vox AI evoluiu de planilhas para uma arquitetura escalável com Supabase](https://emnferreira.medium.com/do-mvp-ao-rag-como-o-vox-ai-evoluiu-de-planilhas-para-uma-arquitetura-escal%C3%A1vel-com-supabase-4c51b951ed56)
 
----
 
 ## Contato
 
