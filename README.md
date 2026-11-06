@@ -60,3 +60,13 @@ Compartilho um pouco do que aprendo na prática:
   <a href="https://emnferreira.medium.com"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="http://lattes.cnpq.br/1681360365008995"><img src="https://img.shields.io/badge/-Lattes-1A73E8?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" /></a>
 </div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emn-f/emn-f/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emn-f/emn-f/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emn-f/emn-f/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
