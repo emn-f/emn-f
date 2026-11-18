@@ -5,83 +5,84 @@
 </p>
 
 <p align="center">
-  <a href="https://emn-f.github.io/holmes/pt-br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-PT--BR-e62429?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio PT-BR" /></a>
-  <a href="https://emn-f.github.io/holmes/en/"><img src="https://img.shields.io/badge/Portfolio-EN-090d16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio EN" /></a>
+  <a href="https://emn-f.github.io/holmes/pt-br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-PT--BR-e62429?style=for-the-badge" alt="Portfólio PT-BR" /></a>
+  <a href="https://emn-f.github.io/holmes/en/"><img src="https://img.shields.io/badge/Portfolio-EN-090d16?style=for-the-badge" alt="Portfolio EN" /></a>
   <a href="https://www.linkedin.com/in/emanuelferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@emnferreira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="http://lattes.cnpq.br/1681360365008995"><img src="https://img.shields.io/badge/Lattes-1A73E8?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" /></a>
-  <a href="https://instagram.com/holmes.raw"><img src="https://img.shields.io/badge/@holmes.raw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @holmes.raw" /></a>
+  <a href="http://lattes.cnpq.br/1681360365008995"><img src="https://img.shields.io/badge/Lattes-1A73E8?style=for-the-badge" alt="Lattes" /></a>
   <a href="mailto:emnferreira.wk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Sobre
+## Oi, eu sou o Emanuel
 
-Construo sistemas backend, automação e IA aplicada em produção. Graduando em **Engenharia de Software (UCSal · 2028)** e Técnico em TI pelo **IFBA**.
+Sou de Salvador, curso Engenharia de Software na UCSal (conclusão em 2028) e sou técnico em TI pelo IFBA. Trabalho com TI desde 2022: comecei testando ERP, passei por suporte e banco de dados, e hoje atuo com infraestrutura e automação na Continental, ao mesmo tempo em que mantenho projetos próprios em produção.
 
-- **Produção & SaaS:** Autor do [**MentoraOS**](https://mentoraos.com) (SaaS B2B multi-tenant em produção) e fundador/Tech Lead do [**Vox AI**](https://github.com/emn-f/vox-ai) (assistente RAG open source).
-- **Corporativo & SecOps:** Atuação na **Continental** com gestão de identidades (IAM via Active Directory), hardening de endpoints e automação em Python + PowerShell (`Odé CLI` e `KillerOffice`).
-- **Dados & Backend:** 4+ anos de prática em tecnologia, incluindo rotinas SQL/ETL, migrações de legados e investigação de causa raiz em produção (Freire Informática e Naxtool Sistemas).
-- **Pesquisa & Comunidade:** Palestrante no **NOSS 2026**, autor de submissão ao **32º Prêmio Jovem Cientista (CNPq 2026)** e 1º lugar no **Prêmio Jovem na Ciência (2019)**.
+O que mais me interessa é backend, dados e segurança aplicados a problemas reais, e foi isso que eu fiz até agora:
 
-> 🌐 Estudos de caso completos, diagramas de arquitetura, demos e trajetória bilíngue em **[emn-f.github.io/holmes](https://emn-f.github.io/holmes/pt-br/)**.
+- **Vox AI:** assistente open source de informação e acolhimento para a população LGBTQIA+ de Salvador. Sou fundador e tech lead. Nasceu como um MVP em planilhas e hoje roda com RAG sobre Supabase.
+- **MentoraOS:** SaaS de gestão pedagógica para escolas, multi-tenant e em produção desde 2026.
+- **Continental:** administro acessos no Active Directory e escrevo automações em Python e PowerShell para auditoria de endpoints.
+- **Antes disso:** dois anos e meio mexendo com SQL, ETL e migração de dados em sistemas de folha de pagamento e ERP.
+
+Estou buscando minha próxima posição como analista ou assistente júnior em desenvolvimento, dados ou segurança. O jeito mais rápido de falar comigo é por [email](mailto:emnferreira.wk@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/emanuelferreira). Mais detalhes, diagramas e demos estão no [portfólio](https://emn-f.github.io/holmes/pt-br/).
 
 ---
 
-## Projetos em destaque
+## Projetos principais
 
-### 1. Vox AI *(Open Source · RAG & DevSecOps)*
-Assistente de apoio e informação segura para a população LGBTQIA+ em Salvador, com *Anonymity by Design* (zero PII).
+### Vox AI
 
-| Problema | Arquitetura | Resultado |
-| :--- | :--- | :--- |
-| MVP com planilhas, JSON e `sentence-transformers` local baixando modelo a cada boot | Backend Python desacoplado com **Supabase (`pgvector`)**, **Gemini API** e RAG | **~80% menos RAM** e maior concorrência em produção |
-| Revisão manual de segurança e migrations | Esteira no **GitHub Actions** com **Gatekeep** (review com IA) e **Semgrep** | PRs, segredos e integridade validados automaticamente |
+O primeiro MVP usava planilhas, JSON no repositório e um modelo de embeddings local que era baixado a cada boot do Streamlit. Funcionava para a demo, mas não escalava.
 
-🔗 [Repositório](https://github.com/emn-f/vox-ai) · [Documentação](https://emn-f.github.io/vox-ai-docs/) · [App em produção](https://vox-ai.streamlit.app/)
+Migrei a base para Supabase com `pgvector`, troquei a inferência local por chamadas de API (Gemini) e desenhei o projeto para não coletar dado pessoal nenhum. Isso reduziu o uso de RAM em cerca de 80% e permitiu atender mais gente ao mesmo tempo.
 
-### 2. MentoraOS *(SaaS B2B Multi-Tenant · Produção)*
-Plataforma de gestão pedagógica para instituições de ensino dividida em **Control Plane** (`mentora-adm`, onboarding zero-touch) e **Data Plane** (`mentora-os`).
-- **Segurança & Isolamento:** PostgreSQL com Row Level Security (**RLS**), criptografia em repouso (`AES-256-GCM`), hashing `Argon2id`, segredos por tenant no **Infisical** e armazenamento privado no **Cloudflare R2**.
-- **Stack & Deploy:** React 19, Node.js, Express 5, deploy containerizado na **OCI** (GHCR + Trivy) e revisão de PRs assistida por IA via **Gatekeep**.
+Para não depender de revisão manual, criei o **Gatekeep**: um funil em Git hooks e GitHub Actions que procura segredos vazados, confere migrations e pede uma revisão ao Gemini sobre o diff já sanitizado. O Semgrep roda junto na esteira.
 
-🔗 [mentoraos.com](https://mentoraos.com) · [app.mentoraos.com](https://app.mentoraos.com)
+[Repositório](https://github.com/emn-f/vox-ai) · [Documentação](https://emn-f.github.io/vox-ai-docs/) · [Aplicação](https://vox-ai.streamlit.app/)
 
-### 3. Odé CLI & KillerOffice *(Automação Corporativa, SecOps & FinOps · Continental)*
-- **Odé CLI:** Orquestrador Python + agentes PowerShell para auditoria e remediação remota de softwares não homologados, eliminando interrupções manuais com usuários e reduzindo em **~90% o tempo dos auditores** (validado em 40+ testes).
-- **KillerOffice:** Diagnóstico *read-only* para elegibilidade e auditoria de licenciamento **Microsoft Office 365**, apoiando decisões de FinOps e otimização de ativos de TI sem impacto nos endpoints.
+### MentoraOS
+
+Escolas precisam de isolamento forte entre os dados de cada instituição e de proteção para informações de alunos. O sistema é dividido em dois: um control plane (`mentora-adm`), que faz o onboarding das escolas sem intervenção manual, e um data plane (`mentora-os`), onde ficam os dados.
+
+O isolamento entre tenants é feito com Row Level Security no PostgreSQL. Dados sensíveis ficam criptografados em repouso (AES-256-GCM), senhas usam Argon2id e os segredos de cada tenant ficam no Infisical. Arquivos vão para um bucket privado no Cloudflare R2, e o deploy é feito em containers na OCI, com imagens verificadas pelo Trivy. A stack é React 19, Node.js e Express 5.
+
+[mentoraos.com](https://mentoraos.com) · [app.mentoraos.com](https://app.mentoraos.com)
+
+### Odé CLI e KillerOffice (Continental)
+
+Auditar software não homologado nas estações exigia interromper o usuário e procurar à mão instalações portáteis, chaves de registro e tarefas agendadas. O Odé CLI faz esse trabalho remotamente: um orquestrador em Python que dispara agentes em PowerShell. Em mais de 40 testes, o tempo gasto pelos auditores caiu cerca de 90%.
+
+O KillerOffice complementa a ferramenta com um diagnóstico somente leitura de licenciamento do Microsoft Office 365, para apoiar decisões de custo sem mexer nas máquinas. Os dois são projetos privados da empresa, por isso não há repositório público.
 
 ---
 
 ## Outros projetos
 
-- [**Respire**](https://respiretea-mvp.vercel.app/) *(Beta)* — Serious game narrativo de cartas táticas para flexibilidade cognitiva, controle inibitório e autorregulação (respiração 4-7-8) de jovens com TEA (`React 19 · TypeScript · Tailwind · Vitest`).
-- [**PsiBook**](https://psibook-site.vercel.app) — Prontuário eletrônico e gestão clínica para psicólogos com isolamento via Supabase RLS, Zod e *Privacy Shield* em 1 clique (`Next.js 15 · TypeScript · Supabase`).
-- [**Sonitus**](https://github.com/emn-f/sonitus) *(Open Source)* — Mapa comunitário de ruído urbano voltado à acessibilidade sensorial de pessoas com TEA (Extensão UCSal).
-- **mentora-pw** — CLI que trata a gravação de demos de produto como código via Playwright headless + FFmpeg (`TypeScript · Playwright · FFmpeg`).
-- **bomberman-sd** — Bomberman multiplayer 1v1 com **Java RMI** e *Local HTTP Adapter (Bridge)* integrado a um frontend React, com testes de concorrência em JUnit 5.
-- [**EcoCílios**](https://github.com/emn-f/ecocilios) & [**Plumbum**](https://github.com/emn-f/plumbum) — Prevenção de enchentes urbanas com IoT e biomimética (Extensão UCSal) e plataforma de correção de textos (Pesquisa IFBA).
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| [Respire](https://respiretea-mvp.vercel.app/) (beta) | Jogo narrativo de cartas para treinar flexibilidade cognitiva e autorregulação (respiração 4-7-8) em jovens com TEA | React 19, TypeScript, Tailwind, Vitest |
+| [PsiBook](https://psibook-site.vercel.app) | Prontuário eletrônico para psicólogos, com isolamento por RLS e um modo de privacidade que borra a tela em 1 clique | Next.js 15, TypeScript, Supabase |
+| [Sonitus](https://github.com/emn-f/sonitus) | Mapa comunitário de ruído urbano para acessibilidade sensorial (extensão UCSal) | TypeScript |
+| [EcoCílios](https://github.com/emn-f/ecocilios) | Prevenção de enchentes urbanas com IoT e biomimética (extensão UCSal) | IoT |
+| [Plumbum](https://github.com/emn-f/plumbum) | Plataforma de correção de textos, feita no Grupo de Pesquisa Mosaico (bolsa IFBA) | React, TypeScript, PHP, MySQL |
+| bomberman-sd | Bomberman 1v1 em Java RMI, com uma ponte HTTP local para o frontend em React | Java, React, JUnit 5 |
+| mentora-pw | CLI que grava as demos dos produtos como código (Playwright + FFmpeg) | TypeScript |
 
 ---
 
-## Pesquisa, palestra & escritos
+## Pesquisa e escritos
 
-- 📄 **32º Prêmio Jovem Cientista (CNPq 2026):** *Vox AI: Inteligência Artificial e Ética no Acesso a Direitos Civis* — avaliação quantitativa LLM-as-a-Judge em 65 cenários com **94,5% de fidelidade normativa** e **85,1% de revocação** ([Ler artigo PDF](https://drive.google.com/file/d/10Ln4yzmlf9YjXhTkt5MzPCfZjReVknlD/view?usp=drivesdk) · [Repositório `/cnpq`](https://github.com/emn-f/vox-ai/tree/develop/cnpq)).
-- 🎤 **Palestra (NOSS 2026):** *De Sheets a um RAG escalável: como evoluí a arquitetura do Vox AI* ([Assistir no YouTube](https://www.youtube.com/live/2GLyGSolizQ?t=15600&is=V7f9KamR9Vuf0V3I)).
-- 🏆 **Publicação & Prêmio (2019 / 2021):** *Baralho Inorgânico: Um jogo para aprender funções químicas* — 1º lugar no Prêmio Jovem na Ciência 2019 e publicado na Revista Jovens Cientistas ([Ler artigo PDF](https://encontrodejovenscientistas.wordpress.com/wp-content/uploads/2021/11/revista-jc_2021_final_19-11_2.pdf)).
-- 📝 **Medium:** [Do MVP ao RAG: Como o Vox AI evoluiu de planilhas para uma arquitetura escalável com Supabase](https://emnferreira.medium.com/do-mvp-ao-rag-como-o-vox-ai-evoluiu-de-planilhas-para-uma-arquitetura-escal%C3%A1vel-com-supabase-4c51b951ed56)
-- 🛡️ **LinkedIn:** [Gatekeep: DevSecOps e code review com IA no Vox AI](https://lnkd.in/p/enFbtGYi)
+- **Prêmio Jovem Cientista 2026 (CNPq):** submeti o artigo *Vox AI: Inteligência Artificial e Ética no Acesso a Direitos Civis*, orientado pela Profa. Angela Peixoto Santana (UCSal). Avaliei o assistente em 65 cenários com LLM-as-a-Judge e obtive 94,5% de fidelidade normativa e 85,1% de revocação. [Artigo (PDF)](https://drive.google.com/file/d/10Ln4yzmlf9YjXhTkt5MzPCfZjReVknlD/view?usp=drivesdk) · [Repositório da pesquisa](https://github.com/emn-f/vox-ai/tree/develop/cnpq)
+- **NOSS 2026:** palestra *De Sheets a um RAG escalável: como evoluí a arquitetura do Vox AI*. [Assistir](https://www.youtube.com/live/2GLyGSolizQ?t=15600&is=V7f9KamR9Vuf0V3I)
+- **Baralho Inorgânico:** jogo para aprender funções químicas, 1º lugar no Prêmio Jovem na Ciência (2019) e publicado na Revista Jovens Cientistas (2021). [Artigo (PDF)](https://encontrodejovenscientistas.wordpress.com/wp-content/uploads/2021/11/revista-jc_2021_final_19-11_2.pdf)
+- **Medium:** [Do MVP ao RAG: como o Vox AI evoluiu de planilhas para uma arquitetura escalável com Supabase](https://emnferreira.medium.com/do-mvp-ao-rag-como-o-vox-ai-evoluiu-de-planilhas-para-uma-arquitetura-escal%C3%A1vel-com-supabase-4c51b951ed56)
+- **LinkedIn:** [Gatekeep: DevSecOps e code review com IA no Vox AI](https://lnkd.in/p/enFbtGYi)
 
 ---
 
-## Tech Stack
+## Tecnologias
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,express,java,react,nextjs,tailwind&perline=9" alt="Linguagens, Backend e Frontend" />
-</div>
-<br />
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker,linux,githubactions,powershell,cloudflare,vitest,playwright,git&perline=12" alt="Dados, Cloud, DevSecOps e Testes" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,express,java,react,nextjs,tailwind,postgres,mysql,supabase,prisma,docker,linux,githubactions,powershell,cloudflare,vitest,playwright,git&perline=11" alt="Tecnologias que uso" />
 
 ---
 
