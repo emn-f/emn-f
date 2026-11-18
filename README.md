@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://emn-f.github.io/holmes/pt-br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-PT--BR-e62429?style=for-the-badge" alt="Portfólio PT-BR" /></a>
-  <a href="https://emn-f.github.io/holmes/en/"><img src="https://img.shields.io/badge/Portfolio-EN-090d16?style=for-the-badge" alt="Portfolio EN" /></a>
-  <a href="https://www.linkedin.com/in/emanuelferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@emnferreira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="http://lattes.cnpq.br/1681360365008995"><img src="https://img.shields.io/badge/Lattes-1A73E8?style=for-the-badge" alt="Lattes" /></a>
-  <a href="mailto:emnferreira.wk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://emn-f.github.io/holmes/pt-br/"><b>Portfólio</b></a> ·
+  <a href="https://www.linkedin.com/in/emanuelferreira">LinkedIn</a> ·
+  <a href="https://medium.com/@emnferreira">Medium</a> ·
+  <a href="http://lattes.cnpq.br/1681360365008995">Lattes</a> ·
+  <a href="mailto:emnferreira.wk@gmail.com">Email</a>
 </p>
 
 ## Oi, eu sou o Emanuel
@@ -24,7 +23,7 @@ O que mais me interessa é backend, dados e segurança aplicados a problemas rea
 - **Continental:** administro acessos no Active Directory e escrevo automações em Python e PowerShell para auditoria de endpoints.
 - **Antes disso:** dois anos e meio mexendo com SQL, ETL e migração de dados em sistemas de folha de pagamento e ERP.
 
-Estou buscando minha próxima posição como analista ou assistente júnior em desenvolvimento, dados ou segurança. O jeito mais rápido de falar comigo é por [email](mailto:emnferreira.wk@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/emanuelferreira). Mais detalhes, diagramas e demos estão no [portfólio](https://emn-f.github.io/holmes/pt-br/).
+Estou buscando minha próxima posição como analista ou assistente júnior em desenvolvimento, dados ou segurança. O jeito mais rápido de falar comigo é por [email](mailto:emnferreira.wk@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/emanuelferreira). Mais detalhes, diagramas e demos estão no [portfólio](https://emn-f.github.io/holmes/pt-br/), que também tem versão em inglês.
 
 ---
 
