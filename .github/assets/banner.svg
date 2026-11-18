@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" width="880" height="180">
+  <defs>
+    <pattern id="halftone-banner" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="1.6" fill="#f1f1f6" fill-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Spider-Verse Chromatic Hard Shadows -->
+  <rect x="16" y="16" width="854" height="154" fill="#00e5ff" />
+  <rect x="10" y="10" width="854" height="154" fill="#ff0033" />
+
+  <!-- Main Dark Editorial Panel -->
+  <rect x="4" y="4" width="854" height="154" fill="#090d16" stroke="#4a4a60" stroke-width="3" />
+  <rect x="6" y="6" width="850" height="150" fill="url(#halftone-banner)" />
+
+  <!-- EF + H_ Monogram (from holmes/public/icon.svg) -->
+  <g transform="translate(26, 25) scale(0.22)">
+    <!-- Glitch Layer: Red (-11, +8) -->
+    <g fill="#ff0033" transform="translate(-11, 8)">
+      <rect x="86" y="130" width="46" height="218" />
+      <rect x="132" y="130" width="86" height="40" />
+      <rect x="132" y="218" width="72" height="38" />
+      <rect x="132" y="308" width="86" height="40" />
+      <rect x="252" y="130" width="46" height="218" />
+      <rect x="298" y="130" width="86" height="40" />
+      <rect x="298" y="218" width="66" height="38" />
+    </g>
+
+    <!-- Glitch Layer: Cyan (+11, -8) -->
+    <g fill="#00e5ff" transform="translate(11, -8)">
+      <rect x="86" y="130" width="46" height="218" />
+      <rect x="132" y="130" width="86" height="40" />
+      <rect x="132" y="218" width="72" height="38" />
+      <rect x="132" y="308" width="86" height="40" />
+      <rect x="252" y="130" width="46" height="218" />
+      <rect x="298" y="130" width="86" height="40" />
+      <rect x="298" y="218" width="66" height="38" />
+    </g>
+
+    <!-- Crisp White EF Monogram -->
+    <g fill="#f1f1f6">
+      <rect x="86" y="130" width="46" height="218" />
+      <rect x="132" y="130" width="86" height="40" />
+      <rect x="132" y="218" width="72" height="38" />
+      <rect x="132" y="308" width="86" height="40" />
+      <rect x="252" y="130" width="46" height="218" />
+      <rect x="298" y="130" width="86" height="40" />
+      <rect x="298" y="218" width="66" height="38" />
+    </g>
+
+    <!-- Discreet H_ signature -->
+    <g transform="translate(316, 286)">
+      <g fill="#00e5ff" transform="translate(3, -3)" opacity="0.7">
+        <rect x="0" y="0" width="12" height="62" />
+        <rect x="34" y="0" width="12" height="62" />
+        <rect x="12" y="24" width="22" height="12" />
+        <rect x="54" y="50" width="24" height="12" />
+      </g>
+      <g fill="#6ee7b7">
+        <rect x="0" y="0" width="12" height="62" />
+        <rect x="34" y="0" width="12" height="62" />
+        <rect x="12" y="24" width="22" height="12" />
+        <rect x="54" y="50" width="24" height="12" />
+      </g>
+    </g>
+  </g>
+
+  <!-- Identity & Positioning -->
+  <text x="160" y="64" fill="#f1f1f6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="28" font-weight="800" letter-spacing="1">EMANUEL FERREIRA</text>
+  <text x="456" y="64" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="600">aka</text>
+  <text x="500" y="64" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24" font-weight="800" letter-spacing="1">HOLMES_</text>
+
+  <text x="160" y="98" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="600">Backend · Automação · IA Aplicada em Produção</text>
+
+  <rect x="160" y="114" width="660" height="1" fill="#4a4a60" opacity="0.7" />
+
+  <text x="160" y="136" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">Engenharia de Software (UCSal · 2028)  //  DevSecOps · Dados · RAG</text>
+</svg>
