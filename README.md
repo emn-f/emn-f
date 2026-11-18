@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://emn-f.github.io/holmes/pt-br/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-HOLMES__%20%E2%86%97-e62429?style=for-the-badge&labelColor=090d16" alt="Portfólio HOLMES_" /></a>
-  <a href="https://www.linkedin.com/in/emanuelferreira"><img src="https://img.shields.io/badge/LINKEDIN-%2Femanuelferreira-00e5ff?style=for-the-badge&labelColor=090d16" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/emanuelferreira"><img src="https://img.shields.io/badge/LINKEDIN-%2Femanuelferreira-0891b2?style=for-the-badge&labelColor=090d16" alt="LinkedIn" /></a>
   <a href="https://medium.com/@emnferreira"><img src="https://img.shields.io/badge/MEDIUM-%40emnferreira-6ee7b7?style=for-the-badge&labelColor=090d16" alt="Medium" /></a>
   <a href="http://lattes.cnpq.br/1681360365008995"><img src="https://img.shields.io/badge/CNPQ-LATTES-f1f1f6?style=for-the-badge&labelColor=090d16" alt="Currículo Lattes" /></a>
   <a href="mailto:emnferreira.wk@gmail.com"><img src="https://img.shields.io/badge/CONTATO-EMAIL%20%E2%9C%89-e62429?style=for-the-badge&labelColor=090d16" alt="Email" /></a>
